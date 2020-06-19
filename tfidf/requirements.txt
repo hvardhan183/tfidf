@@ -1,0 +1,12 @@
+matplotlib
+sklearn
+joblib
+requests
+flask
+gensim
+wikipedia
+nltk
+scipy
+pandas
+numpy
+gunicorn
